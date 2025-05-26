@@ -1,8 +1,8 @@
 # MVP: Multi-source approach to Voice Pathology detection
 
-This repository contains the detailed experimental results for the INTERSPEECH 2025 submission paper **MVP: Multi-source approach to Voice Pathology detection**. 
+This repository contains the detailed experimental results for the paper **MVP: Multi-source approach to Voice Pathology detection**, accepted at the INTERSPEECH 2025 conference.
 
-Full code, experimental setup, and results will be released upon paper acceptance.
+Full code, experimental setup, and results will be released soon.
 
 
 ---
